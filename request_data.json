@@ -1,0 +1,23 @@
+{
+  "request":
+  {
+    "passengers":
+    {
+      "adultCount": 2,
+      "infantInLapCount": 1
+    },
+    "slice": [
+      {
+        "origin": "CHS",
+        "destination": "TYO",
+        "date": "2017-06-22"
+      },
+      {
+        "origin": "TYO",
+        "destination": "CHS",
+        "date": "2017-07-01"
+      }
+    ],
+    "solutions": 5
+  }
+}
